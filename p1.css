@@ -1,0 +1,21 @@
+h1{
+font: italic;
+align-content: center;
+color: #281A0B;
+
+}
+
+h2{
+    animation: backwards;
+    animation-delay: 3s;
+    color:GREY;
+    font-display: swap;
+}
+
+a{
+    align-content: center;
+}
+img{
+    accent-color: #1A0000;
+    background: black;
+}
